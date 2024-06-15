@@ -1,0 +1,6 @@
+{
+  "/(main)/page": "app/(main)/page.js",
+  "/(main)/[profileId]/posts/page": "app/(main)/[profileId]/posts/page.js",
+  "/(main)/[profileId]/page": "app/(main)/[profileId]/page.js",
+  "/(main)/[profileId]/info/page": "app/(main)/[profileId]/info/page.js"
+}
